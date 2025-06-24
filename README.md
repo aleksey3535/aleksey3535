@@ -1,9 +1,8 @@
 <div id="header" align="center"> <h1> Привет, меня зовут Алексей!👋 </h1> </div> 
 
-<div>
-    
+
 <img src="https://go.dev/blog/go-brand/Go-Logo/PNG/Go-Logo_Aqua.png" alt="Логотип" width="200" align="right"> 
-</div>
+
 
 
 ## 📌 Обо мне
